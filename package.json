@@ -1,0 +1,32 @@
+{
+  "name": "aula2ppiadssemi",
+  "version": "1.0.0",
+  "description": "Aula 2 - Manipulação de dados de formúlarios HTML",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "module",
+    "url": "git+https://github.com/kaiqueapz/Aula2PPIADSSEmi.git"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "HTTP",
+    "GET",
+    "programação",
+    "cliente",
+    "servidor"
+  ],
+  "author": "Kaique Almeida",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kaiqueapz/Aula2PPIADSSEmi/issues"
+  },
+  "homepage": "https://github.com/kaiqueapz/Aula2PPIADSSEmi#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
